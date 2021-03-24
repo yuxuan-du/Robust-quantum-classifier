@@ -18,9 +18,7 @@ qiskit==0.20.1
   ```
 
 ## Attacking method
-Please refer to the study "[Quantum adversarial machine learning](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.033212)" to realize different attacking methods. 
-
-The attached codes can be easily integrated with the employed attacking methods to investigate the robustness of quantum classifiers.  
+Please refer to the study "[Quantum adversarial machine learning](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.033212)" to realize different attacking methods. Note that the attached codes can be easily integrated with the employed attacking methods to investigate the robustness of quantum classifiers.  
 ---
 
 ## Citation
