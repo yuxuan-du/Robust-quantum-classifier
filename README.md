@@ -1,4 +1,4 @@
-# QAS
+# Quantum Robust Classifiers
 This repository includes the code in our paper "[Quantum noise protects quantum classifiers against adversaries](https://arxiv.org/abs/2003.09416)". 
 
 ---
